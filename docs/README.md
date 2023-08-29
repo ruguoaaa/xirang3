@@ -32,7 +32,7 @@ features:
   - icon: repo
     title: 史藏
     details: 传记，别史，史评，地理，志存记录，政书，正史，目录，纪事本末，经世文编，编年，职官，诏令奏议，载记。
-    link: https://ruguoaaa.github.io/xirang3/史藏/
+    link: /史藏/
 
   - icon: repo
     title: 子藏
